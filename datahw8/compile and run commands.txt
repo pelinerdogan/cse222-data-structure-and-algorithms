@@ -1,0 +1,2 @@
+Javac -d . *java
+Java hw8data.Main
