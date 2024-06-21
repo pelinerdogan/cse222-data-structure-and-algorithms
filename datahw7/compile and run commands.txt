@@ -1,0 +1,2 @@
+compile command javac -d . *java
+run command java datahw7.driver
