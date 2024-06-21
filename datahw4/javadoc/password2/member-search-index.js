@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"hw4","c":"password2","l":"isExactDivision(int, int[], int)","u":"isExactDivision(int,int[],int)"},{"p":"hw4","c":"password2","l":"pass"},{"p":"hw4","c":"password2","l":"password2(int)","u":"%3Cinit%3E(int)"}];updateSearchResults();
